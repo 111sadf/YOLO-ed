@@ -1,0 +1,5 @@
+train: ./out/images/train # train images
+val: ./out/images/val # val images
+
+names: ['crazing','inclusion','patches','pitted_surface','rolled-in_scale','scratches']
+

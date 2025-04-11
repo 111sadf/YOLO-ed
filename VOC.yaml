@@ -1,0 +1,10 @@
+train: ./VOC/images/train # train images
+val: ./VOC/images/val # val images
+test: ./VOC/images/test # test images (optional)
+
+names: ['c17', 'c5', 'helicopter', 'c130', 'f16', 'b2',
+    'other', 'b52', 'kc10', 'command', 'f15', 'kc135', 'a10',
+    'b1', 'aew', 'f22', 'p3', 'p8', 'f35', 'f18', 'v22', 'f4',
+    'globalhawk', 'u2', 'su-27', 'il-38', 'tu-134', 'su-33',
+    'an-70', 'su-24', 'tu-22', 'il-76']
+
